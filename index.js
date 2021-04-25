@@ -16,6 +16,7 @@ const sendMessageToTelegram = async message => {
 };
 
 /**
+ * The Lambda function
  *
  * @return {Promise<void>}
  */
