@@ -1,2 +1,2 @@
-# aws-telegram-bot-integration
-POC for integrating Telegram bot with AWS and a scheduled CloudWatch trigger on Lambda
+# AWS Telegram bot integration
+POC for integrating a Telegram bot with AWS with a scheduled CloudWatch trigger on the Lambda function on a specified interval
